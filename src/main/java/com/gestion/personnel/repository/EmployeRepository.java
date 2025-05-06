@@ -1,6 +1,9 @@
 package com.gestion.personnel.repository;
 
 import com.gestion.personnel.entities.Employe;
+
+import interfaces.Stats;
+
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
